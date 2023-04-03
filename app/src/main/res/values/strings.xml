@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ibroximjon Maxammadjonov</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Ibroximjon.
+        \n\nI love playing chess.
+        \n\nAnd I\'m huge fan of mobile programming.
+        \nNow I am a student of Inha University in Tashkent, and I am studying in software engineering
+        faculty.
+        \nSince 2022, I have been learning mobile development. In the beginning
+        I decided to learn Flutter and Dart.
+        \nNowadays I am learning Android Kotlin from nanodegree program in Udacity.
+    </string>
+    <string name="hint_text">What is your nickname?</string>
+    <string name="btn_text">Done</string>
+</resources>
